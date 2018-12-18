@@ -48,4 +48,4 @@
 1：  该项目是一个用 jasmine 框架写的一个关于阅读器的测试代码，它可以高效的帮助我们完成这个项目所需的各种要求
 
 ## 项目地址
-
+1:https://github.com/C2HGENIAY/jasmine

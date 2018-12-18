@@ -43,7 +43,7 @@ $(function() {
                 expect(allFeeds[i].url).toBeDefined();
                 expect(allFeeds[i].length).not.toBe(0);
             }
-            // 将相似的代码都移入到该方法中，避免重复编写相同代码。
+            
         };
 
 
